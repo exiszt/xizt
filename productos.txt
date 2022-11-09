@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The Beatles - Abbey Road (1969) vinilo",
+    "price": 10000,
+    "thumbnail": "https://e.snmc.io/i/600/w/556a5058d86284041d4ac0852ce0a23b/6617288/the-beatles-abbey-road-Cover-Art.jpg",
+    "id": 1
+  },
+  {
+    "title": "King Crimson - Red (1974) vinilo",
+    "price": 10000,
+    "thumbnail": "https://e.snmc.io/i/600/w/20bf069dfcf00dd63ec64f8288db7de0/2601521/king-crimson-red-Cover-Art.jpg",
+    "id": 2
+  },
+  {
+    "title": "Talking Heads - Remain in Light (1980) vinilo",
+    "price": 10000,
+    "thumbnail": "https://e.snmc.io/i/600/w/095ff661d204890c23511eaefd13d75d/5627825/talking-heads-remain-in-light-Cover-Art.jpg",
+    "id": 3
+  },
+  {
+    "title": "The Cure - The Head on the Door (1985) vinilo",
+    "price": 10000,
+    "thumbnail": "https://e.snmc.io/i/600/w/50fe5a102e7f94e45b862ecaef2e76f1/2666043/the-cure-the-head-on-the-door-Cover-Art.jpg",
+    "id": 4
+  }
+]
