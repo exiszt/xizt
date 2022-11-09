@@ -32,7 +32,7 @@ class Contenedor {
         try {
             const currentData = await fs.promises.readFile('./productos.txt', 'utf-8')
             const dataJSON = JSON.parse(currentData)
-            return dataJSON.find(element => element.id === id) ?? null
+            return dataJSON.find(element => element.id === id) || null
         }
         catch (error) {
             console.log(error)
