@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "hbs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

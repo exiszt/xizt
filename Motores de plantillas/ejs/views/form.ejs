@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EJS</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+</head>
+
+<body class="bg-dark text-white">
+    <section class="p-5">
+        <h2 class="mt-5">Ingresar producto</h2>
+        <form action='/productos' method='POST'>
+            <div class='mb-3 mt-4'>
+                <label class='form-label fw-bold' for='name'>Nombre</label>
+                <input class="form-control" type='text' name='name' placeholder="Ingrese el nombre del producto" required />
+            </div>
+            <div class='mb-3 mt-4'>
+                <label class='form-label fw-bold' for='price'>Precio</label>
+                <input class="form-control" type='number' name='price' placeholder="Ingrese el precio del producto" required />
+            </div>
+            <div class='mb-3 mt-4'>
+                <label class='form-label fw-bold' for='picture'>Imagen</label>
+                <input class="form-control" type='url' name='picture' placeholder="Ingrese la URL del producto" required />
+            </div>
+            <div class='mb-3 mt-4'>
+                <input class="btn btn-primary" type='submit' value='Enviar' />
+            </div>
+        </form>
+        <div>
+            <a href="./">
+                <button class="btn btn-warning">Ver lista</button>
+            </a>
+        </div>
+    </section>
+</body>
+
+</html>

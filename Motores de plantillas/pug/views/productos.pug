@@ -1,0 +1,23 @@
+include layout.pug
+
+section.p-4
+    h2.text-center.mt-5 Vista de Productos
+    if productos.length===0
+        div.mt-4
+        h2 No hay productos
+    else
+        table.table.table-dark.table-striped.mx-auto.mt-5
+            thead
+                tr
+                    th.text-center Nombre
+                    th.text-center Precio
+                    th.text-center Imagen
+            tbody
+                each producto in productos
+                    tr.text-center
+                        td.text-center= producto.name
+                        td.text-center= producto.price
+                        td
+                            img(src=producto.picture alt=producto.name width="30px")
+    div.mt-3
+    a(href="./productos").btn.btn-warning.d-block.mx-auto.mt-5(style="width: 200px") Agregar producto
