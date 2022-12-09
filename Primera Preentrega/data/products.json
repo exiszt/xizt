@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "In the Court of the Crimson King - King Crimson (1969)",
+    "descripción": "Rock Progresivo - Art Rock",
+    "precio": 15000,
+    "stock": 5,
+    "url": "https://e.snmc.io/i/600/w/d62c8c3b2c4365710ac9c3e05e94c11d/7999484/king-crimson-in-the-court-of-the-crimson-king-Cover-Art.jpg",
+    "codigo": 1,
+    "id": 1,
+    "timestamp": 1670548529379
+  },
+  {
+    "nombre": "Revolver - The Beatles (1966)",
+    "descripción": "Pop Rock - Rock Psicodélico",
+    "precio": 15000,
+    "stock": 5,
+    "url": "https://e.snmc.io/i/600/w/d1dc1ba868e70b299ebd6733fa4fbf5b/6112311/the-beatles-revolver-Cover-Art.png",
+    "codigo": 2,
+    "id": 2,
+    "timestamp": 1670548663373
+  },
+  {
+    "nombre": "Remain in Light - Talking Heads (1980)",
+    "descripción": "New Wave - Post Punk",
+    "precio": 15000,
+    "stock": 5,
+    "url": "https://e.snmc.io/i/600/w/095ff661d204890c23511eaefd13d75d/5627825/talking-heads-remain-in-light-Cover-Art.jpg",
+    "codigo": 3,
+    "id": 3,
+    "timestamp": 1670548733357
+  },
+  {
+    "nombre": "Unknown Pleasures - Joy Division (1979)",
+    "descripción": "Post Punk",
+    "precio": 15000,
+    "stock": 5,
+    "url": "https://e.snmc.io/i/600/w/82e94e531a59909b53c96b26692af8d5/10154759/joy-division-unknown-pleasures-Cover-Art.jpg",
+    "codigo": 4,
+    "id": 4,
+    "timestamp": 1670548869083
+  },
+  {
+    "nombre": "Spiderland - Slint (1991)",
+    "descripción": "Post Rock - Post Hardcore - Math Rock",
+    "precio": 15000,
+    "stock": 5,
+    "url": "https://e.snmc.io/i/600/w/5f46f9bfdc8839c2fadabe3777ebec60/2161189/slint-spiderland-Cover-Art.jpg",
+    "codigo": 5,
+    "id": 5,
+    "timestamp": 1670548937003
+  },
+  {
+    "nombre": "The Queen is Dead - The Smiths (1986)",
+    "descripción": "Jangle Pop - Indie Pop",
+    "precio": 15000,
+    "stock": 5,
+    "url": "https://e.snmc.io/i/600/w/36e385a85adce5821e624fd265724b4b/1816031/the-smiths-the-queen-is-dead-Cover-Art.jpg",
+    "codigo": 6,
+    "id": 6,
+    "timestamp": 1670549176966
+  }
+]
