@@ -3,7 +3,7 @@ export default {
         path: './db'
     },
     mongodb: {
-        cnxStr: 'mongodb+srv://admin:admin@cluster0.bev71ps.mongodb.net/test',
+        cnxStr: 'mongodb+srv://coder_c20:coder_c20@cluster0.46mvrnj.mongodb.net/test',
         options: {
             useNewUrlParser: true,
             useUnifiedTopology: true
@@ -24,7 +24,7 @@ export default {
     sqlite3: {
         client: 'sqlite3',
         connection: {
-            filename: `./db/ecommerce.sqlite`
+            filename: `./DB/ecommerce.sqlite`
         },
         useNullAsDefault: true
     },
