@@ -1,0 +1,11 @@
+h1 {
+  color: #ff0062;
+}
+
+label {
+  font-weight: bold;
+}
+
+.addContainer {
+  min-height: 100vh;
+}
